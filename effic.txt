@@ -1,0 +1,13 @@
+CARPOOLS MEETING MINIMUM PASSENGER EFFICIENCY OF 25 PASSENGERS KM/L
+
+Passengers       Weekly Commute(km)       Gasoline Consumption(L)       Efficiency(pass km/L)       Weekly Subsidy($)
+
+  4                    75                       11.0                           27.3                     24.00
+
+  2                    60                        4.5                           26.7                      9.60
+
+  5                    45                        8.2                           27.3                     18.00
+
+  8                    50                        9.1                           44.0                     32.00
+
+  3                    33                        7.1                           13.9                      7.92
